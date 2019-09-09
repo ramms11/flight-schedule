@@ -1,10 +1,7 @@
-HTML5 Flightboard
+HTML5 Flightboard / Flight Information Display
 -----------------
 
-A HTML5 & CSS3 flightboard from an airport that is automaticly updated using AJAX, jQuery and JSON.
+A HTML5 & CSS3 flightboard from an airport that is automaticly updated.
 
-The live data comes from the [Schiphol Amsterdam Airport](http://www.schiphol.nl)
+The live data comes from the https://www.airportia.com
 
-I used the [HTML5 boilerplate](http://html5boilerplate.	com/) (A rock-solid default for HTML5 awesomeness)
-
-It's been a while since i worked on this (check out the Google code repo [http://code.google.com/p/html5flightboard/](http://code.google.com/p/html5flightboard/) for the history)
